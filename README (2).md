@@ -1,7 +1,7 @@
 # Open Source Audit Project
 
 ## Student Details
-- Name: Prakhar Upadhyay(24BSA10143)
+- Name: Utkarsh Prakash Singh(24BAS10097)
 - Course: Open Source Software
 - Project Title: Open Source Audit
 
